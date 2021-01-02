@@ -1,4 +1,4 @@
 # Table of contents
 
-* [废园集](README.md)
+* [雪窗文稿](README.md)
 
