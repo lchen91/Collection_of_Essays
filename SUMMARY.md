@@ -5,4 +5,3 @@
 * [诗](poems.md)
 * [笔记](biji.md)
 
-- [学术笔记](academic.md)
